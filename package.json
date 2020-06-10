@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap4-sass-gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple Boilerplate for Bootstrap 4, Gulp & Sass",
+  "repository": "https://github.com/marcogregorin/Bootstrap4-sass-gulp-boilerplate",
+  "main": "index.html",
+  "author": {
+    "name": "MG",
+    "email": "me@marcogregorin.com",
+    "url": "https://marcogregorin.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  }
+}

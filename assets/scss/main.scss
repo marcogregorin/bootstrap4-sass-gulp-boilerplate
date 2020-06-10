@@ -1,0 +1,12 @@
+// Use this Main Scss to import styles
+
+// Import Variables
+@import "general/variables";
+
+// Import Dependencies
+@import "node_modules/bootstrap/scss/bootstrap";
+
+@import "general/mixins";
+@import "general/global";
+
+// Import Custom Styles
